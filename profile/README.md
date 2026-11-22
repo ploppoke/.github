@@ -1,5 +1,5 @@
-# plappp
-Programmers Larping Actual Pokémon Patch Programming
+# ploppp
+Programmers Larping Occassional Pokémon Patch Programming
 
 ## AI policy
 Sure, see AGENTS.md
